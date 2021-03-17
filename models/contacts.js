@@ -1,8 +1,8 @@
 const contacts = [
-    {id: 125223, name: 'JavaScript', done: true},
-    {id: 127904, name: 'HTML', done: true},
-    {id: 139608, name: 'Node', done: true},
-    {id: 221430, name: 'CSS', done: true}
+    {id: 23, name: 'Rob', done: true},
+    {id: 04, name: 'Dale', done: true},
+    {id: 08, name: 'Nikki', done: true},
+    {id: 30, name: 'Charles', done: true}
   ];
   
   module.exports = {
